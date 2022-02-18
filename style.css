@@ -1,0 +1,71 @@
+body {
+    background-image: url("./img/Finity\ Poster\ 1\ 1.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section .caixa01 {
+
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0 0 10rem;
+    max-width: 21.8rem;
+    
+}
+
+.caixa01 h1 {
+    
+    font-style: normal;
+    font-size: 7.1rem;
+    color: white;
+    font-weight: bold;
+    line-height: 130%;
+    max-width:  21rem;
+    margin: 5rem 0 0 0rem;
+    
+    
+
+    
+}
+.caixa01 p {
+    
+    font-size: 1.5rem;
+    color: white;
+    line-height: 155%;
+    font-weight: bold;
+    max-width: 19.7rem;
+    max-height: 4.9rem;
+}
+
+p strong {
+    font-size: 1rem;
+    color:blueviolet;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 46rem 10rem 0rem 10rem;
+    
+    
+}
+
+.footer h3 {
+    
+    max-width: 7.7rem;
+    font-style: normal;
+    font-size: 1.1rem;
+    line-height: 1.1rem;
+    color: white;
+    
+    
+}
+.footer h4 {
+    
+    max-width: 19.3rem;
+    font-style: normal;
+    font-size: 1.9rem;
+    line-height: 1.4rem;
+    color: white;
+}
