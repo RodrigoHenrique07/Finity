@@ -1,4 +1,4 @@
-# Finity
+# Finity-Element
 # Descrição do projeto
 Projeto desenvolvido apenas com html e css, afim de treinar  o posicionamento dos elementos com o flex-box
 # [Tecnologias utilizadas](#tecnologias)
